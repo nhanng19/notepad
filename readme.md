@@ -19,8 +19,8 @@ Use following port to view the application:
 http://localhost:3001/
 ```
 
-Heroku deployment: 
-https://expressnotepad.herokuapp.com/
+
+[https://expressnotepad.herokuapp.com/](HEROKU DEPLOYMENT LINK)
 
 ## User Story
 
