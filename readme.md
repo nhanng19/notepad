@@ -20,7 +20,7 @@ http://localhost:3001/
 ```
 
 
-[https://expressnotepad.herokuapp.com/](HEROKU DEPLOYMENT LINK)
+[HEROKU DEPLOYMENT LINK](https://expressnotepad.herokuapp.com/)
 
 ## User Story
 
