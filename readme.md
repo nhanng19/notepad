@@ -20,6 +20,7 @@ http://localhost:3001/
 ```
 
 Heroku deployment: 
+https://expressnotepad.herokuapp.com/
 
 ## User Story
 
@@ -101,4 +102,4 @@ After dynamically coding our backend application using Express.js along with ref
 This project was uploaded to GitHub at the following repository link:
 [https://github.com/nhanng19/notepad](https://github.com/nhanng19/notepad)
 
-Deployed Web Application link: 
+Deployed Web Application link: [https://expressnotepad.herokuapp.com/](https://expressnotepad.herokuapp.com/)
