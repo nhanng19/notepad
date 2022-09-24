@@ -19,7 +19,11 @@ Use following port to view the application:
 http://localhost:3001/
 ```
 
- ![](./img/front2.gif)![](./img/front1.gif)
+CONSOLE DEMO
+![](./img/front2.gif)
+ 
+USER DEMO
+ ![](./img/front1.gif)
 
 [HEROKU DEPLOYMENT LINK](https://expressnotepad.herokuapp.com/)
 
