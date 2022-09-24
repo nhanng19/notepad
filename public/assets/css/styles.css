@@ -1,5 +1,3 @@
-
-
 html, body {
   height: 100%;
   margin: 0;
@@ -23,6 +21,8 @@ html, body {
   outline: none;
   border: none;
 }
+
+/* Added notebook theme for textarea */
 
 .note-textarea {
   width:100%;
